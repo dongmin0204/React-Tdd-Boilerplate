@@ -371,17 +371,22 @@ pnpm turbo:test   # 모든 워크스페이스 테스트
 
 ## 📸 스크린샷
 
-### 홈페이지
-![Homepage](docs/screenshots/homepage.png)
+### 홈페이지  
+<img width="1234" height="802" alt="스크린샷 2025-10-05 오후 10 27 18" src="https://github.com/user-attachments/assets/3e5aef3c-1948-497c-ae7e-aff5647d057d" />  
 
-### 다국어 지원
-![Internationalization](docs/screenshots/i18n.png)
+### 다국어 지원  
+<img width="1250" height="805" alt="스크린샷 2025-10-05 오후 10 30 04" src="https://github.com/user-attachments/assets/91982ec8-73fd-4dc0-9a93-84a25113cde3" />  
 
-### 다크모드
-![Dark Mode](docs/screenshots/dark-mode.png)
+### 테스트 UI  
+<img width="1802" height="682" alt="스크린샷 2025-10-05 오후 10 44 48" src="https://github.com/user-attachments/assets/f166963c-648e-4d97-9589-b1362b91ec5f" />
 
-### 테스트 UI
-![Test UI](docs/screenshots/test-ui.png)
+
+### 테스트 COVERAGE  
+<img width="1915" height="804" alt="스크린샷 2025-10-05 오후 11 27 59" src="https://github.com/user-attachments/assets/79f1bb6a-55c0-445d-a13e-6401f7cd559e" />
+
+### 다크모드 (구현 중)  
+
+
 
 ## 🤝 기여하기
 
