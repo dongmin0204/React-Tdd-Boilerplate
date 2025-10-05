@@ -1,4 +1,4 @@
-# React Enterprise Boilerplate
+# React TDD Boilerplate
 
 한국어 | English
 
