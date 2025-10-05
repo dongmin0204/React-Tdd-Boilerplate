@@ -401,6 +401,14 @@ pnpm turbo:test   # 모든 워크스페이스 테스트
 
 이 프로젝트는 MIT 라이선스를 따릅니다. 자세한 내용은 [LICENSE](LICENSE) 파일을 참조하세요.
 
+### 📋 라이선스 정보
+
+이 프로젝트는 [React Boilerplate](https://github.com/react-boilerplate/react-boilerplate)를 기반으로 제작되었습니다. React Boilerplate는 MIT 라이선스 하에 제공되며, 이 프로젝트 역시 동일한 MIT 라이선스를 따릅니다.
+
+**원본 프로젝트**: [React Boilerplate](https://github.com/react-boilerplate/react-boilerplate)  
+**라이선스**: MIT License  
+**저작권**: Max Stoiber, Konstantin Tarkus, and contributors
+
 ## 📮 연락처
 
 - **프로젝트 관리자**: [백동민](https://github.com/dongmin0204)
